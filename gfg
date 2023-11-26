@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Healthy Living Tips</title>
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  .header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+  }
+  .nav {
+    background: #555;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+  }
+  .nav a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    display: inline-block;
+  }
+  .nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .article {
+    padding: 20px;
+    background: white;
+    margin: 15px;
+  }
+  .footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+</style>
+</head>
+<body>
+  <div class="header">
+    <h1>Healthy Living Tips</h1>
+  </div>
+  <div class="nav">
+    <a href="#home">Home</a>
+    <a href="#nutrition">Nutrition</a>
+    <a href="#exercise">Exercise</a>
+    <a href="#mental-health">Mental Health</a>
+  </div>
+  <article class="article">
+    <h2>Welcome to Healthy Living!</h2>
+    <p>
+      Health is a state of complete physical, mental, and social well-being. Here, we share tips and advice on how to maintain a balanced lifestyle. Let's dive in!
+    </p>
+    <h3>Nutrition</h3>
+    <p>
+      Eating a balanced diet is key to good health. A healthy diet includes a variety of fruits and vegetables, whole grains, lean proteins, and healthy fats.
+    </p>
+    <h3>Exercise</h3>
+    <p>
+      Regular physical activity can improve your muscle strength and boost your endurance. Exercise delivers oxygen and nutrients to your tissues and helps your cardiovascular system work more efficiently.
+    </p>
+    <h3>Mental Health</h3>
+    <p>
+      Mental health is as important as physical health. It's crucial to take time out for yourself, connect with others, stay positive, and get plenty of sleep.
+    </p>
+  </article>
+  <div class="footer">
+    <p>Contact Us: info@healthyliving.com</p>
+  </div>
+</body>
+</html>
